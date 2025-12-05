@@ -2,7 +2,7 @@
 
 This repository serves as a comprehensive toolkit for analyzing Stochastic Models and Queueing Systems. It bridges the gap between theoretical mathematical formulas and empirical validation through Python simulations.
 
-The project is designed to help students and researchers understand how random variables behave and how queueing systems (specifically **M/M/1**) perform under various loads.
+The project is designed to understand how random variables behave and how queueing systems (specifically **M/M/1**) perform under various loads.
 
 ## 📂 Repository Structure
 
